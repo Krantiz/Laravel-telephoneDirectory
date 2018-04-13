@@ -11,5 +11,5 @@
 
 - clone the reposoitory
 - Create a Database and add .env
-- Run migration by "pho artisan migrate"
-- Start the server by "pho artisan serve"
+- Run migration by "php artisan migrate"
+- Start the server by "php artisan serve"
